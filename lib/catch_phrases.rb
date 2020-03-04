@@ -9,3 +9,7 @@ end
 def toadstool
   puts $status
 end
+
+def link
+  phrase = "It's Dangerous"
+end
