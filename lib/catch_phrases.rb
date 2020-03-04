@@ -1,3 +1,5 @@
+$status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+
 def mario
   # status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   phrase = "It's-a me, Mario!"
@@ -5,5 +7,5 @@ def mario
 end
 
 def toadstool
-  puts status
+  puts $status
 end
